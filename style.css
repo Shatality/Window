@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 600px;
+    background-color: rgb(16, 77, 168);
+  }
+
+.flex-item1 {
+    height: 70px;
+    background-color: rgb(30, 102, 211);
+  }
+
+.badge {
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    border-radius: 50%;
+    background: rgb(30, 102, 211);
+  }
