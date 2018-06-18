@@ -22,17 +22,19 @@
 
 .flex-container2 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: rgb(114, 151, 211);
   }
 
 .txt {
-    width: 150px;
+    width: 200px;
     margin: 7px;
     padding: 10px;
     border: 1px solid black;
     background: rgb(89, 116, 153);
    }
 
-   .flex-item2 {
+.flex-item2 {
+     display: flex;
+     flex-direction: row;
    }
